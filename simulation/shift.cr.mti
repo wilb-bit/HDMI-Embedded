@@ -1,0 +1,86 @@
+{C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module myCount
+
+Top level modules:
+	myCount
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock80k
+
+Top level modules:
+	clock80k
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vgaHdmi
+
+Top level modules:
+	vgaHdmi
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock400k
+
+Top level modules:
+	clock400k
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module myshiftreg
+
+Top level modules:
+	myshiftreg
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module i2c_config
+
+Top level modules:
+	i2c_config
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module thisshiftreg
+
+Top level modules:
+	thisshiftreg
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v} {2 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module increment
+** Warning: C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v(28): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	increment
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module red16
+
+Top level modules:
+	red16
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pll25MHz
+
+Top level modules:
+	pll25MHz
+
+} {} {}} {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v} {1 {vlog -work work -stats=none {C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module variableCounter
+
+Top level modules:
+	variableCounter
+
+} {} {}}

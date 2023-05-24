@@ -1,0 +1,308 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/letsgo/simulation
+vclock400k
+Z0 !s110 1559824939
+!i10b 1
+!s100 SLaaG?NJkUY30j6W9jQ6X1
+I@Lk><Bz74?89=N??U_KeC2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation
+w1559489112
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1559824939.000000
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock400k.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vclock80k
+R0
+!i10b 1
+!s100 jW8?bkOiUFK`5QnkT5[^@3
+I_Nn8hlSFDDi[E9oI6HE<;1
+R1
+R2
+w1559490796
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/clock80k.v|
+!i113 1
+R5
+R6
+vhdmi
+R0
+!i10b 1
+!s100 [^@FnOn3GV`BbX4iQfAfO2
+IW@]HEo9l9>lFzCENMBQ0O1
+R1
+R2
+w1559824925
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/hdmi.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/hdmi.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/hdmi.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/hdmi.v|
+!i113 1
+R5
+R6
+vi2c_config
+Z7 !s110 1559824938
+!i10b 1
+!s100 BAzYIA;C@m9UR;ibNM>gV0
+IfK>k`nleck]QIf_WJTAFb0
+R1
+R2
+w1559533932
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v
+Z8 L0 39
+R3
+r1
+!s85 0
+31
+Z9 !s108 1559824938.000000
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/i2c_config.v|
+!i113 1
+R5
+R6
+vincrement
+R7
+!i10b 1
+!s100 G0k5c0^R@?RMam`>69e2W2
+IHN?_L]0<51aL_:=2Ue?KY1
+R1
+R2
+w1559534905
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/increment.v|
+!i113 1
+R5
+R6
+vmyCount
+R0
+!i10b 1
+!s100 >o3OJM@mc@cKZjbo8kV`n1
+IQhU;5GkiSFRT]jbXf:6=b1
+R1
+R2
+w1559806994
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myCount.v|
+!i113 1
+R5
+R6
+nmy@count
+vmyshiftreg
+R7
+!i10b 1
+!s100 CM0Go0`;YhZU49CW7kaD=1
+IY1Z^z@PRnZ`QC@4:;HgIg0
+R1
+R2
+w1559535815
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/myshiftreg.v|
+!i113 1
+R5
+R6
+vpll25MHz
+R0
+!i10b 1
+!s100 jec]e1cca3F^NioDz8lom0
+IG:=W;n17gV`n=C9EUdVU10
+R1
+R2
+w1559721523
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v|
+!i113 1
+R5
+R6
+npll25@m@hz
+vred16
+R0
+!i10b 1
+!s100 Ph19ADX^HhX4[Y4Bg>Ed:1
+IlY44jF1:iig3Ki0;d<ofZ1
+R1
+R2
+w1559819243
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/simulation/red16.v|
+!i113 1
+R5
+R6
+vshift
+R7
+!i10b 1
+!s100 n3lK?kHIz?H<b7m9z1ed61
+ICm7FYQ=^^e^@5bidCfAZl1
+R1
+R2
+w1559531026
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/shift.v|
+!i113 1
+R5
+R6
+vstatei2c
+R0
+!i10b 1
+!s100 W<K^oz[dHNI9mQ4G4mm9U1
+IDl>@K7Ddcbc]X7fPX=]GZ3
+R1
+R2
+w1559824774
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/statei2c.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/statei2c.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/statei2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/statei2c.v|
+!i113 1
+R5
+R6
+vthisshiftreg
+R7
+!i10b 1
+!s100 ANI:m1=3a5S7jGIe5KUS?0
+I[XV1GA;=77Gb]gh7inmFE2
+R1
+R2
+w1559531953
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/thisshiftreg.v|
+!i113 1
+R5
+R6
+vvariableCounter
+R0
+!i10b 1
+!s100 kl<`EGBFPf<GNM>UA>Za`1
+IiJHTDn`Ic?_4Ko[^aG7IU2
+R1
+R2
+w1558874294
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/variableCounter.v|
+!i113 1
+R5
+R6
+nvariable@counter
+vvgaHdmi
+R0
+!i10b 1
+!s100 AKLF<QI4:@LY;HFOG8R8F2
+IV6i7=kb<l2hGYAbNJi^kk2
+R1
+R2
+w1559718693
+8C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v
+FC:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v
+L0 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/vgaHdmi.v|
+!i113 1
+R5
+R6
+nvga@hdmi
