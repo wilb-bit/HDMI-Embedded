@@ -13,6 +13,5 @@ In this example, a simple red block is outputed to the screen(red3Intel.hex - im
 * statei2c.v - is a state machine which uses I2C to send data via HDMI to the monitor. this is the main code and utilizes all other verilog files to achive the desired output to the monitor.
 * hdmi.v - contains a 24-bit data interface for the HDMI transmitter on the FPGA to output the static image on to the monitor.
 * myshiftreg.v - used to move the through data bits of the hex file (image), allowing hdmi.v to send data.  
-* pll8MHz.v - the clock used for the code to run. 
 
 
