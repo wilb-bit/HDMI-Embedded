@@ -1,5 +1,6 @@
 # HDMI-Embedded
-For further details please see attached PDF (HDMI_Project-Advanced_Digital_Design.pdf)
+For further details please see attached PDF (HDMI_Project-Advanced_Digital_Design.pdf).
+
 Appologies for lack of comments in the Verilog code. This was a time sensitive project completed in my final year of university, alongside other commitments.
 
 Verilog HDL is used to program a FPGA (Intel Cyclone 5) to drive a HDMI output to a external monitor. This outputs images, which have previously been loaded into memory, to the monitor.
