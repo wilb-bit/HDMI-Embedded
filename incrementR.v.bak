@@ -1,0 +1,51 @@
+module incrementR (
+	input inc,
+	input reset_n,
+	input clk50,
+	output [7:0] value
+	
+);
+
+parameter romsize = 
+
+reg [4:0] Iaddress;
+
+i2c_config i2c (
+
+	.aclr(1'b0),
+	.address(Iaddress),
+	.clock(clk50),
+	.rden(1'b1),
+	.q(value)
+
+);
+
+always @(posedge(inc), negedge(reset_n))
+	begin
+		// First setup the reset characteristics
+		if(reset_n == 1'b0)
+			begin
+				// Preload functionality.
+				Iaddress [4:0] = 5'b000000;
+			end
+		else if(inc == 1'b1)
+			begin
+				// The count is active, so check to
+				// see whether it has expired.
+//				if(counterValue == ((2**counterwidth)-1'b1))
+//					begin
+//						counterValue = 0;
+//					end
+//				else
+					//begin
+						Iaddress = Iaddress + 1'b1;
+					//end
+			end
+		else
+			begin
+				// Hold condition.
+			Iaddress = Iaddress;
+			end
+	end 
+
+endmodule

@@ -1,0 +1,17 @@
+restart -force -nowave
+add wave *
+# Set the radix of the buses.
+property wave -radix hex *
+force -deposit shiftClk 1 0, 0 {10ns} -repeat 20000
+force -freeze reset_n 0
+force -freeze loadData 0
+force -freeze shiftEnabled 0
+force -freeze dataBus 0
+run 200000
+force -freeze reset_n 1
+force -freeze loadData 1
+force -freeze dataBus 16#A5
+run 200000
+force -freeze loadData 0
+force -freeze shiftEnabled 1
+run 200000

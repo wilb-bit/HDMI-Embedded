@@ -1,0 +1,34 @@
+module hdmi (
+	input reset_n,
+	input clk25,
+	
+	output [23:0] D,
+	output Vsync,
+	output Hsync,
+	output DE
+
+);
+
+reg regV;
+reg regH;
+reg regDE;
+reg [23:0] regD;
+reg Vcount;
+reg Hcount;
+
+parameter 
+
+
+variableCounter #(3) count0 (
+
+	.CEP(CEP), // Count enable
+	.PE_n(PE_n), // Parallel load enable
+	.Dn(Dn), // Parallel load value
+	.clock50(clock5), // System clock
+	
+	.Qn_out(Qn_out), // Current count value
+	.TC_out(TC_out) // Count Complete
+
+);
+
+endmodule

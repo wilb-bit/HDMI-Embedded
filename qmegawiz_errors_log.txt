@@ -1,0 +1,21 @@
+
+
+C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+
+Jun 06 06PM:34:01>: Megafunction PLL Intel FPGA IP v18.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+
+Jun 06 06PM:34:03>: Megafunction PLL Intel FPGA IP v18.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+
+Jun 06 06PM:34:05>: Megafunction PLL Intel FPGA IP v18.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+C:/Users/Wilbur/Documents/y4sem1/Advanced Digital Design 1/Project/shift/pll25MHz.v
+
+Jun 06 06PM:34:10>: Megafunction PLL Intel FPGA IP v18.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
