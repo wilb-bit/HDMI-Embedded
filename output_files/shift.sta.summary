@@ -1,0 +1,421 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -7.707
+TNS   : -112.570
+
+Type  : Slow 1100mV 100C Model Setup 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -6.836
+TNS   : -30.986
+
+Type  : Slow 1100mV 100C Model Setup 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -5.020
+TNS   : -70.234
+
+Type  : Slow 1100mV 100C Model Setup 'clock400k:clk80|currentState.clockOn'
+Slack : -4.416
+TNS   : -234.911
+
+Type  : Slow 1100mV 100C Model Setup 'clk50'
+Slack : -3.225
+TNS   : -15.503
+
+Type  : Slow 1100mV 100C Model Setup 'currentstate.increment'
+Slack : -1.595
+TNS   : -13.471
+
+Type  : Slow 1100mV 100C Model Hold 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.510
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'clk50'
+Slack : 0.659
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'clock400k:clk80|currentState.clockOn'
+Slack : 0.697
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.838
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'currentstate.increment'
+Slack : 1.005
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Recovery 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -12.104
+TNS   : -169.404
+
+Type  : Slow 1100mV 100C Model Recovery 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -6.178
+TNS   : -161.942
+
+Type  : Slow 1100mV 100C Model Recovery 'currentstate.increment'
+Slack : -2.030
+TNS   : -18.256
+
+Type  : Slow 1100mV 100C Model Removal 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.179
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Removal 'currentstate.increment'
+Slack : 1.404
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Removal 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 8.596
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'clock400k:clk80|currentState.clockOn'
+Slack : -0.538
+TNS   : -70.365
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -0.538
+TNS   : -10.779
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'currentstate.increment'
+Slack : -0.538
+TNS   : -7.252
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.562
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'clk50'
+Slack : 8.875
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 19.261
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 61.767
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Setup 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -6.767
+TNS   : -96.467
+
+Type  : Slow 1100mV -40C Model Setup 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -5.940
+TNS   : -26.347
+
+Type  : Slow 1100mV -40C Model Setup 'clock400k:clk80|currentState.clockOn'
+Slack : -4.986
+TNS   : -230.807
+
+Type  : Slow 1100mV -40C Model Setup 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -4.787
+TNS   : -66.960
+
+Type  : Slow 1100mV -40C Model Setup 'clk50'
+Slack : -2.552
+TNS   : -12.182
+
+Type  : Slow 1100mV -40C Model Setup 'currentstate.increment'
+Slack : -1.676
+TNS   : -14.012
+
+Type  : Slow 1100mV -40C Model Hold 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -0.243
+TNS   : -0.338
+
+Type  : Slow 1100mV -40C Model Hold 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -0.238
+TNS   : -0.929
+
+Type  : Slow 1100mV -40C Model Hold 'clk50'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'clock400k:clk80|currentState.clockOn'
+Slack : 0.692
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.850
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'currentstate.increment'
+Slack : 0.939
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Recovery 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -11.251
+TNS   : -157.460
+
+Type  : Slow 1100mV -40C Model Recovery 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -5.025
+TNS   : -131.165
+
+Type  : Slow 1100mV -40C Model Recovery 'currentstate.increment'
+Slack : -1.912
+TNS   : -17.204
+
+Type  : Slow 1100mV -40C Model Removal 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Removal 'currentstate.increment'
+Slack : 1.328
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Removal 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 7.908
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'clock400k:clk80|currentState.clockOn'
+Slack : -0.538
+TNS   : -69.092
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -0.538
+TNS   : -10.822
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'currentstate.increment'
+Slack : -0.538
+TNS   : -7.214
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.562
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'clk50'
+Slack : 8.825
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 19.195
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 61.690
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Setup 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -5.543
+TNS   : -78.878
+
+Type  : Fast 1100mV 100C Model Setup 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -5.358
+TNS   : -25.587
+
+Type  : Fast 1100mV 100C Model Setup 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -2.617
+TNS   : -36.631
+
+Type  : Fast 1100mV 100C Model Setup 'clk50'
+Slack : -2.210
+TNS   : -10.465
+
+Type  : Fast 1100mV 100C Model Setup 'clock400k:clk80|currentState.clockOn'
+Slack : -2.122
+TNS   : -96.707
+
+Type  : Fast 1100mV 100C Model Setup 'currentstate.increment'
+Slack : -0.489
+TNS   : -3.979
+
+Type  : Fast 1100mV 100C Model Hold 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'clock400k:clk80|currentState.clockOn'
+Slack : 0.286
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'currentstate.increment'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'clk50'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Recovery 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -7.512
+TNS   : -105.151
+
+Type  : Fast 1100mV 100C Model Recovery 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -4.572
+TNS   : -120.466
+
+Type  : Fast 1100mV 100C Model Recovery 'currentstate.increment'
+Slack : -0.762
+TNS   : -6.856
+
+Type  : Fast 1100mV 100C Model Removal 'currentstate.increment'
+Slack : 0.514
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Removal 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.248
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Removal 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 4.803
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'clock400k:clk80|currentState.clockOn'
+Slack : -0.012
+TNS   : -0.036
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'currentstate.increment'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.562
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'clk50'
+Slack : 8.532
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 19.551
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 62.053
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.848
+TNS   : -18.002
+
+Type  : Fast 1100mV -40C Model Setup 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.833
+TNS   : -53.760
+
+Type  : Fast 1100mV -40C Model Setup 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -2.054
+TNS   : -28.749
+
+Type  : Fast 1100mV -40C Model Setup 'clock400k:clk80|currentState.clockOn'
+Slack : -1.726
+TNS   : -75.953
+
+Type  : Fast 1100mV -40C Model Setup 'clk50'
+Slack : -1.393
+TNS   : -6.567
+
+Type  : Fast 1100mV -40C Model Setup 'currentstate.increment'
+Slack : -0.395
+TNS   : -3.112
+
+Type  : Fast 1100mV -40C Model Hold 'clk50'
+Slack : 0.107
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.216
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'clock400k:clk80|currentState.clockOn'
+Slack : 0.239
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'currentstate.increment'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Recovery 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : -5.858
+TNS   : -81.995
+
+Type  : Fast 1100mV -40C Model Recovery 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.006
+TNS   : -78.714
+
+Type  : Fast 1100mV -40C Model Recovery 'currentstate.increment'
+Slack : -0.556
+TNS   : -4.999
+
+Type  : Fast 1100mV -40C Model Removal 'currentstate.increment'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Removal 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Removal 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 3.897
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'clock400k:clk80|currentState.clockOn'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'currentstate.increment'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'hdmi:hdmioutp|myCount:countH|regTC'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.562
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'clk50'
+Slack : 8.459
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pll_25|pll25mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 19.546
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pllclk|pll8mhz_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 62.047
+TNS   : 0.000
+
+------------------------------------------------------------
